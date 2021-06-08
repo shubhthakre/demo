@@ -9,7 +9,7 @@ No registration. Nothing to install.
 
 # Example
 You can check the following server as an example:
-https://my-json-server.typicode.com/typicode/demo
+https://my-json-server.typicode.com/shubhthakre/demo
 
 # Beta
 For the moment, the project is in beta which means many things may change or break:
